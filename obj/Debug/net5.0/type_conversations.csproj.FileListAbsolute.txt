@@ -1,0 +1,16 @@
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/bin/Debug/net5.0/type_conversations
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/bin/Debug/net5.0/type_conversations.deps.json
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/bin/Debug/net5.0/type_conversations.runtimeconfig.json
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/bin/Debug/net5.0/type_conversations.runtimeconfig.dev.json
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/bin/Debug/net5.0/type_conversations.dll
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/bin/Debug/net5.0/type_conversations.pdb
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.AssemblyInfo.cs
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.csproj.CoreCompileInputs.cache
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.dll
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/refint/type_conversations.dll
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.pdb
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/type_conversations.genruntimeconfig.cache
+/Users/zeynepkayhan/Desktop/Practics/type_conversations/obj/Debug/net5.0/ref/type_conversations.dll
